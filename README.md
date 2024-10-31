@@ -7,21 +7,16 @@ Aqui, você vai encontrar projetos que exploram análise de dados, BI, estatíst
 
 ## Sobre Mim
 
-- 🎨 **Formação Artística**: Possuo um histórico em **artes cênicas** e **artes visuais**, e trabalhei em projetos selecionnados atraves de Editais de Arte e Cultura.
-- Como o **The International London Mime Festival** no Reino Unido.
-- Acredito que minha formação artística me oferece uma perspectiva única para interpretar dados e gerar insights criativos.
+- 🎨 **Formação Artística**: Possuo um histórico em **artes cênicas** e **artes visuais**,
+  Trabalhei em projetos selecionados atraves de Editais de Arte e Cultura. Como o **The International London Mime Festival** no Reino Unido.
+  Acredito que minha formação artística me oferece uma perspectiva única para interpretar dados e gerar insights criativos.
   
 - 📊 **Analista de Dados em Ascensão**: Atualmente, estou estudando Análise de Dados através do bootcamp **Triple Ten**
-- Atuando como Art Studio Manager e Data Analytics para o **Studio Voyager 2**.
-- Compreensão das necessidades e objetivos da artista Fran Chang (Galeria Millan), oferecendo suporte e estratégias para maximizar o potencial de suas obras.
-- Experiência em catalogação e organização de acervos, com atenção aos detalhes e manutenção de registros precisos.
-- Conhecimento prático das ferramentas de gestão e softwares de apoio à administração de estúdios e galerias: **(ArtLogic)**
-- Gerenciamento/Logística de demandas da artista, obras de arte entre galerias e instituições.
-  
-- Minha experiência inclui também o uso de ferramentas como Notion, Excel, Python e Google Drive para estruturar o inventário de obras e planejar exposições.
-
-- 🖥 **Ferramentas e Tecnologias**: Utilizo **Python**, **SQL** e **Jupyter Notebook** para análise de dados, além de **Excel** para gestão de obras e materiais artísticos. No design gráfico, utilizo **Adobe InDesign e Photoshop**
-- em constante evolução, buscando aprender novas ferramentas como o **Machine Learning** e novas bibliotecas de **Mineração de Dados**.
+  Atuando como Art Studio Manager e Data Analytics para o **Studio Voyager 2**.
+  Compreensão das necessidades e objetivos da artista Fran Chang (Galeria Millan), oferecendo suporte e estratégias para maximizar o potencial de suas obras.
+  Experiência em catalogação e organização de acervos, com atenção aos detalhes e manutenção de registros precisos.
+  Conhecimento prático das ferramentas de gestão e softwares de apoio à administração de estúdios e galerias: **(ArtLogic)**
+  Gerenciamento/Logística de demandas da artista, obras de arte entre galerias e instituições.
 
 ## Projetos em Destaque
 
@@ -33,11 +28,6 @@ Aqui estão alguns dos meus projetos atuais e futuros:
 
 - 🌍 **Análise de Obras de artistas e valores através de um data set da Sothebys**: 
 
-## Habilidades e Interesses
-
-- **Linguagens**: Python, SQL
-- **Ferramentas de Análise e Visualização**: Jupyter Notebook, Excel, Google Drive
-- **Design Gráfico**: Adobe InDesign e Photoshop
 - **Idiomas**: Português (nativo), Inglês (intermediário), Francês (em aprendizado)
   
 Atualmente, estou focado em expandir meus conhecimentos em **estatísticas e marketing para análise de dados**, além de me especializar em BI. Também estou aprimorando meu inglês e aprendendo francês, pois quero me conectar com o mercado de arte em outros países.
@@ -50,6 +40,13 @@ Sinta-se à vontade para entrar em contato para trocar ideias, discutir projetos
 - Email: pietrosardella@outlook.com
 
 Obrigado por visitar meu perfil! 😊
+
+- 💡 Minhas Tecnologias
+• Git • GitHub • Python • SQL • Javascript • Jupyter Notebook • Excel • InDesign • Photoshop • Tableau • PowerBI • VS Code
+
+- 🧠 em constante evolução, buscando aprender novas ferramentas como o **Machine Learning** e novas bibliotecas de **Mineração de Dados**
+
+- **Idiomas**: Português (nativo), Inglês (intermediário), Francês (em aprendizado)
 
 <!---
 PietroSardella/PietroSardella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
