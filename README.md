@@ -30,7 +30,15 @@ Aqui estão alguns dos meus projetos atuais e futuros:
 
 - **Idiomas**: Português (nativo), Inglês (intermediário), Francês (em aprendizado)
   
-Atualmente, estou focado em expandir meus conhecimentos em **estatísticas e marketing para análise de dados**, além de me especializar em BI. Também estou aprimorando meu inglês e aprendendo francês, pois quero me conectar com o mercado de arte em outros países.
+Atualmente, estou focado em expandir meus conhecimentos em **estatísticas e marketing para análise de dados**, além de me especializar em BI.
+
+- 💡 Minhas Tecnologias
+  
+• Git • GitHub • Python • SQL • Javascript • Jupyter Notebook • Excel • InDesign • Photoshop • Tableau • PowerBI • VS Code
+
+- 🧠 em constante evolução, buscando aprender novas ferramentas como o **Machine Learning** e novas bibliotecas de **Mineração de Dados**
+
+- **Idiomas**: Português (nativo), Inglês (intermediário), Francês (em aprendizado)
 
 ## Vamos Conectar!
 
@@ -41,13 +49,7 @@ Sinta-se à vontade para entrar em contato para trocar ideias, discutir projetos
 
 Obrigado por visitar meu perfil! 😊
 
-- 💡 Minhas Tecnologias
-  
-• Git • GitHub • Python • SQL • Javascript • Jupyter Notebook • Excel • InDesign • Photoshop • Tableau • PowerBI • VS Code
 
-- 🧠 em constante evolução, buscando aprender novas ferramentas como o **Machine Learning** e novas bibliotecas de **Mineração de Dados**
-
-- **Idiomas**: Português (nativo), Inglês (intermediário), Francês (em aprendizado)
 
 <!---
 PietroSardella/PietroSardella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
