@@ -42,6 +42,7 @@ Sinta-se à vontade para entrar em contato para trocar ideias, discutir projetos
 Obrigado por visitar meu perfil! 😊
 
 - 💡 Minhas Tecnologias
+  
 • Git • GitHub • Python • SQL • Javascript • Jupyter Notebook • Excel • InDesign • Photoshop • Tableau • PowerBI • VS Code
 
 - 🧠 em constante evolução, buscando aprender novas ferramentas como o **Machine Learning** e novas bibliotecas de **Mineração de Dados**
