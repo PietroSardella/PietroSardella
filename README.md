@@ -34,7 +34,7 @@ Atualmente, estou focado em expandir meus conhecimentos em **estatísticas e mar
 
 - 💡 Minhas Tecnologias
   
-• Git • GitHub • Python • SQL • Javascript • Jupyter Notebook • Excel • InDesign • Photoshop • Tableau • PowerBI • VS Code
+• Git • GitHub • Python • SQL • Jupyter Notebook • Excel • InDesign • Photoshop • Tableau • PowerBI • VS Code
 
 - 🧠 em constante evolução, buscando aprender novas ferramentas como o **Machine Learning** e novas bibliotecas de **Mineração de Dados**
 
