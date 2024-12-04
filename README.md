@@ -5,10 +5,11 @@ Bem-vindo ao meu perfil GitHub! Estou em transição para a área de **Análise 
 ## Sobre Mim
 
 - 🎨 **Formação Artística e Experiência**: 
-  - Tenho uma base sólida em **artes cênicas** e **artes visuais**, com experiência em projetos aprovados por editais culturais, como o **The International London Mime Festival** no Reino Unido.
+  - Tenho uma base sólida em **artes cênicas** e **artes visuais**, com experiência em projetos aprovados por editais culturais, como:
+  - **The International London Mime Festival** no Reino Unido e **ProaC Editais**
   - Minha trajetória artística contribui para uma abordagem original e insights criativos na análise de dados.
   
-- 📊 **Aspirante a Analista de Dados**: 
+- 📊 **Analista de Dados**: 
   - Estudando **Análise de Dados** no bootcamp **Triple Ten**.
   - Atuando como Art Studio Manager e Data Analyst no **Studio Voyager 2**, apoiando a artista Fran Chang (representada pela Galeria Millan).
   - Experiência em catalogação de acervos artísticos, gestão de logística entre galerias, e uso de ferramentas de administração como **ArtLogic**.
@@ -23,12 +24,14 @@ Bem-vindo ao meu perfil GitHub! Estou em transição para a área de **Análise 
   
 - 🌍 **Estudo de Preços de Obras de Arte**: Análise de dados da Sotheby's para explorar padrões e tendências de preços de obras de artistas contemporâneos.
 
+- 📊 **Análise de Preços e Categorias na Sotheby's**: Estudo focado nos preços das obras de arte leiloadas na Sotheby's, identificando diferenças significativas entre períodos históricos, como o Pós-Guerra e o Contemporâneo, e destacando artistas de maior valor como Caren Canier e Marcia Scanlon. O projeto fornece insights valiosos para colecionadores e investidores sobre tendências de valorização.
+
 ## Tecnologias e Ferramentas
 
 - **Linguagens e Bibliotecas**: Python, SQL, Pandas, Seaborn, Numpy, Scipy, Matplotlib
-- **Ambientes e Ferramentas**: Jupyter Notebook, Excel, Tableau, Power BI, Git, GitHub
+- **Ambientes e Ferramentas**: Jupyter Notebook, Excel, Tableau, Git, GitHub
 - **Design e Edição**: InDesign, Photoshop
-- **Em Aprendizado**: Machine Learning, bibliotecas de mineração de dados
+- **Em Aprendizado**: Machine Learning, bibliotecas de mineração de dados, Estatística
 
 ## Idiomas
 
@@ -41,7 +44,7 @@ Bem-vindo ao meu perfil GitHub! Estou em transição para a área de **Análise 
 Gosto de conversar sobre arte e dados! Se quiser trocar ideias ou discutir possíveis colaborações, aqui estão meus contatos:
 
 - [LinkedIn](https://www.linkedin.com/in/pietro-sardella/)
-- **Email**: pietrosardella@outlook.com
+- **Email**: pietrosardella.art@gmail.com
 
 Obrigado por visitar meu perfil! 😊
 
