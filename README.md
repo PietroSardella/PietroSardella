@@ -29,7 +29,7 @@ Bem-vindo ao meu perfil GitHub! Estou em transição para a área de **Análise 
 ## Tecnologias e Ferramentas
 
 - **Linguagens e Bibliotecas**: Python, SQL, Pandas, Seaborn, Numpy, Scipy, Matplotlib
-- **Ambientes e Ferramentas**: Jupyter Notebook, Excel, Tableau, Git, GitHub
+- **Ambientes e Ferramentas**: Jupyter Notebook, Excel, Tableau, Git, GitHub, Artlogic
 - **Design e Edição**: InDesign, Photoshop
 - **Em Aprendizado**: Machine Learning, bibliotecas de mineração de dados, Estatística
 
