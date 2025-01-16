@@ -10,7 +10,7 @@ Bem-vindo ao meu perfil GitHub! Estou em transição para a área de **Análise 
   - Minha trajetória artística contribui para uma abordagem original e insights criativos na análise de dados.
   
 - 📊 **Analista de Dados**: 
-  - Formado **Análise de Dados** pela **Triple Ten**.
+  - Formado em **Análise de Dados** pela **Triple Ten**.
   - Atuando como Art Studio Manager e Data Analyst no **Studio Voyager 2**, apoiando a artista Fran Chang (representada pela Galeria Millan).
   - Experiência em catalogação de acervos artísticos, gestão de logística entre galerias, e uso de ferramentas de administração como **ArtLogic**.
 
@@ -29,9 +29,9 @@ Bem-vindo ao meu perfil GitHub! Estou em transição para a área de **Análise 
 ## Tecnologias e Ferramentas
 
 - **Linguagens e Bibliotecas**: Python, SQL, Pandas, Seaborn, Numpy, Scipy, Matplotlib
-- **Ambientes e Ferramentas**: Jupyter Notebook, Excel, Tableau, Git, GitHub, Artlogic
+- **Ambientes e Ferramentas**: Jupyter Notebook, Excel, Git, GitHub, Artlogic
 - **Design e Edição**: InDesign, Photoshop
-- **Em Aprendizado**: Machine Learning, bibliotecas de mineração de dados, Estatística
+- **Em Aprendizado**: Machine Learning, Bibliotecas de Mineração de Dados, Estatística, Tableau
 
 ## Idiomas
 
