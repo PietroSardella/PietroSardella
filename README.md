@@ -1,57 +1,34 @@
-# Olá, sou Pietro Sardella! 👋
+# Olá, sou Pietro Sardella  
+**BI Analyst | CRM & Lead Strategy | Studio and Project Manager**
 
-Bem-vindo ao meu perfil GitHub! Estou em transição para a área de **Análise de Dados**, com um foco especial no **Mercado de Arte Contemporânea** e experiência como **Art Studio Manager**. Minha formação artística me permite trazer uma perspectiva criativa e inovadora para a interpretação e visualização de dados. Aqui você encontrará projetos que combinam análise de dados, estatísticas, BI, e o uso de ferramentas criativas.
+Bem-vindo ao meu perfil no GitHub! Sou **Analista de Dados com uma abordagem criativa**, em transição do setor de arte contemporânea para funções orientadas por dados em diversos setores. Trago um conjunto de habilidades híbrido que combina **pensamento analítico, inteligência de mercado e resolução criativa de problemas** para gerar insights, otimizar decisões e impulsionar valor.
 
-## Sobre Mim
+## 🔎 Sobre mim
 
-- 🎨 **Formação Artística e Experiência**: 
-  - Tenho uma base sólida em **artes cênicas** e **artes visuais**, com experiência em projetos aprovados por editais culturais, como:
-  - **The International London Mime Festival** no Reino Unido e **ProaC Editais**
-  - Minha trajetória artística contribui para uma abordagem original e insights criativos na análise de dados.
-  
-- 📊 **Analista de Dados**: 
-  - Formado em **Análise de Dados** pela **Triple Ten**.
-  - Atuando como Art Studio Manager e Data Analyst no **Studio Voyager 2**, apoiando a artista Fran Chang (representada pela Galeria Millan).
-  - Experiência em catalogação de acervos artísticos, gestão de logística entre galerias, e uso de ferramentas de administração como **ArtLogic**.
+- 🎯 **Inteligência de Negócios & Análise de Dados**  
+  - Formação em **Data Analysis** pela **TripleTen**, com sólida base em **limpeza de dados, estatística, SQL, Python e criação de dashboards**.  
+  - Atualmente atuo como **Business Intelligence Analyst** na **Sophie Su Art Advisory**, liderando **estratégias de CRM, segmentação de leads e análise de mercado**.  
+  - Experiência com **ferramentas de BI** (Google Looker Studio, Excel, Power BI) e plataformas de **CRM** (RD Station, HubSpot, ArtLogic).
 
-- 💡 **Foco Atual**: Expandindo conhecimentos em **estatísticas, BI e marketing**, com interesse em **Machine Learning** e mineração de dados.
+- 🎨 **Background Criativo e Estratégico**  
+  - Mais de 8 anos de experiência no setor **artístico e cultural**, incluindo gestão de projetos, produções financiadas por editais e residências internacionais na **Finlândia e Suécia**.  
+  - Atuo como **Studio Manager** da artista Fran Chang, gerenciando operações, catalogação e dados para exposições internacionais e logística de galeria.  
+  - Essa bagagem amplia minha capacidade de interpretar conjuntos de dados complexos com criatividade e precisão.
 
-## Projetos em Destaque
+- 📌 **Interesses Atuais**  
+  - **Business Intelligence**, **Marketing Analytics**, **Estratégias orientadas por dados**, **Machine Learning aplicado a negócios** e **Análise de Dados com aplicação multissetorial**.
 
-- 🔍 **Mapeamento de Artistas por Estilo**: Um projeto que visualiza a distribuição e evolução de estilos artísticos por região, abrangendo o período de 1800 a 2000.
-  
-- 📈 **Análise de Gênero na Arte**: Investigando o crescimento e a visibilidade de mulheres artistas ao longo das décadas.
-  
-- 🌍 **Estudo de Preços de Obras de Arte**: Análise de dados da Sotheby's para explorar padrões e tendências de preços de obras de artistas contemporâneos.
+## 🚀 Projetos em Destaque
 
-- 📊 **Análise de Preços e Categorias na Sotheby's**: Estudo focado nos preços das obras de arte leiloadas na Sotheby's, identificando diferenças significativas entre períodos históricos, como o Pós-Guerra e o Contemporâneo, e destacando artistas de maior valor como Caren Canier e Marcia Scanlon. O projeto fornece insights valiosos para colecionadores e investidores sobre tendências de valorização.
+- 📍 **Mapeamento de Estilos Artísticos**  
+  Análise geoespacial da evolução de estilos artísticos (1800–2000). Demonstra habilidades em **tratamento de dados, visualização geográfica** e análise temporal.
 
-## Tecnologias e Ferramentas
+- 📊 **Representatividade de Gênero na Arte**  
+  Análise estatística do crescimento da presença de artistas mulheres ao longo das décadas. Destaque para **data storytelling, testes de hipótese** e investigação social baseada em dados.
 
-- **Linguagens e Bibliotecas**: Python, SQL, Pandas, Seaborn, Numpy, Scipy, Matplotlib
-- **Ambientes e Ferramentas**: Jupyter Notebook, Excel, Git, GitHub, Artlogic
-- **Design e Edição**: InDesign, Photoshop
-- **Em Aprendizado**: Machine Learning, Bibliotecas de Mineração de Dados, Estatística, Tableau
+- 💰 **Análise de Preços no Mercado de Arte**  
+  [Em breve] — Estudo orientado para o mercado, explorando tendências de precificação e comportamento de colecionadores com dados de leilões públicos. Irá destacar competências em **modelagem de dados, análise de regressão** e relatórios visuais.
 
-## Idiomas
+---
 
-- **Português**: Nativo
-- **Inglês**: Intermediário
-- **Francês**: Em aprendizado
-
-## Vamos Conectar!
-
-Gosto de conversar sobre arte e dados! Se quiser trocar ideias ou discutir possíveis colaborações, aqui estão meus contatos:
-
-- [LinkedIn](https://www.linkedin.com/in/pietro-sardella/)
-- **Email**: pietrosardella.art@gmail.com
-
-Obrigado por visitar meu perfil! 😊
-
-
-
-
-<!---
-PietroSardella/PietroSardella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💼 Vamos nos conectar: estou aberto a oportunidades em que eu possa aplicar minha visão analítica e criatividade para resolver desafios de negócio em **tecnologia, marketing, consultoria ou setores culturais**.
