@@ -7,8 +7,8 @@ Bem-vindo ao meu perfil no GitHub! Sou **Analista de Dados com uma abordagem cri
 
 - 🎯 **Inteligência de Negócios & Análise de Dados**  
   - Formação em **Data Analysis** pela **TripleTen**, com sólida base em **limpeza de dados, estatística, SQL, Python e criação de dashboards**.  
-  - Atualmente atuo como **Business Intelligence Analyst** na **Sophie Su Art Advisory**, liderando **estratégias de CRM, segmentação de leads e análise de mercado**.  
-  - Experiência com **ferramentas de BI** (Google Looker Studio, Excel, Power BI) e plataformas de **CRM** (RD Station, HubSpot, ArtLogic).
+  - Atualmente atuo como **BI Analyst** na **Sophie Su Art Advisory**, liderando **estratégias de CRM, segmentação de leads e análise de mercado**.  
+  - Experiência com **ferramentas de BI** (Google Looker Studio, Excel, Power BI) e plataformas de **CRM** (RD Station, ArtLogic).
 
 - 🎨 **Background Criativo e Estratégico**  
   - Mais de 8 anos de experiência no setor **artístico e cultural**, incluindo gestão de projetos, produções financiadas por editais e residências internacionais na **Finlândia e Suécia**.  
